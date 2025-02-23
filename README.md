@@ -6,16 +6,35 @@ This is a modern and responsive landing page for a bicycle-related project. The 
 
 ## Technologies Used
 
-HTML5
+- HTML5
 
-Sass 
+- Sass 
 
-JavaScript
+- JavaScript
 
-BEM Methodology
+- BEM Methodology
 
 ## Links
 
 Live Preview: [Bike Landing Page](https://shelyaa.github.io/landing-page/)
 
 Figma Mockup: [Bike Landing Page Design](https://www.figma.com/design/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0-1&p=f)
+
+## Getting Started
+Follow these steps to set up the project locally
+## Prerequisites
+This project requires Node.js 16 or later.
+
+## 1. Clone the repo
+```
+git clone https://github.com/shelyaa/landing-page.git
+cd landing-page
+```
+## 2. Install dependencies
+```
+npm install
+```
+## 3. Run the project locally
+```
+npm start
+```
